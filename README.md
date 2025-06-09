@@ -5,10 +5,15 @@
 This project focuses on predicting liver disease using machine learning techniques. It leverages patient data to train and evaluate a classification model that can assist medical professionals in early diagnosis.
 
 📁 Project Structure
+
 ├── Liverpatients.ipynb     # Jupyter notebook with EDA, preprocessing, and model
+
 ├── README.md               # Project documentation
+
 ├── liver_patient.csv       # (Expected) Dataset file
+
 └── models/                 # (Optional) Trained models and artifacts
+
 📊 Dataset
 
 Attributes:
