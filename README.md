@@ -1,4 +1,7 @@
 🩺 Liver Disease Prediction
+
+
+
 This project focuses on predicting liver disease using machine learning techniques. It leverages patient data to train and evaluate a classification model that can assist medical professionals in early diagnosis.
 
 📁 Project Structure
